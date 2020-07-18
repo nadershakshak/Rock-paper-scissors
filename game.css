@@ -1,0 +1,46 @@
+.all {
+    padding: 15px;
+    background-color: rgb(193, 224, 255);
+    margin: 10px auto;
+    cursor: pointer;
+    width: 50%;
+    text-align: center;
+    font-size: 1.5rem;
+    
+  }
+  
+  .result {
+    padding: 15px;
+    background-color: rgb(103, 194, 255);
+    margin: 30px auto;
+    cursor: pointer;
+    width: 60%;
+    text-align: center;
+    font-size: 1.5rem;
+  }
+  .hello{
+    padding: 15px;
+    background-color:rgb(151, 191, 207);
+    text-align: center;
+    margin: 50px auto;
+    width: 300px;
+    font-size: 50px;
+  }
+  .lets{
+    padding: 15px;
+    background-color: rgb(146, 221, 255);
+    text-align: center;
+    margin: 20px auto;
+    width: 250px;
+    height: 30px;
+    font-size: 30px;
+  }
+  .rock{
+    padding: 15px;
+    background-color: rgb(167, 249, 255);
+    text-align: center;
+    margin: 50px auto;
+    width: auto;
+    font-size: 25px;
+    margin: 15px auto;
+  }
